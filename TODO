@@ -24,4 +24,4 @@ Advanced features in snakeGame
 
 --Done--1. Give the ghost snake the ability to eat the food.
 --Done--2. The game ends when your snake touches the ghost snake.
-3. Provide a special type of food that increases the score without changing the length of the snake.
+--DONE--3. Provide a special type of food that increases the score without changing the length of the snake.

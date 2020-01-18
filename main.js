@@ -147,5 +147,5 @@ const main = function() {
   const game = new Game(snake, ghostSnake, food, gridSize, scoreCard);
   setup(game);
   runGame(game);
-  // setInterval(randomlyTurnSnake, 90, ghostSnake);
+  setInterval(randomlyTurnSnake, 90, ghostSnake);
 };
